@@ -1,0 +1,10 @@
+
+.h1 .center-text {
+    text-align: center;
+}
+.h1 .center-vh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
